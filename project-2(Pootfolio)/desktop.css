@@ -80,9 +80,11 @@ width: 140px;
 
 
 /* achivement contact end  */
-
+.social-media{
+  margin-top:10px ;
+}
   /* footer section start hear */
-
+footer{width: 100%;}
 .footer::after{clear: both;content: '';display: table;}
 
 
